@@ -7,7 +7,7 @@ export default function Profile() {
     />
   );
 }
-//ЗАДАНИЕ 2
+//ЗАДАНИЕ 2.
 export default function Profile() {
   return (
     <img
